@@ -97,7 +97,7 @@ export default class HomeScreen extends React.Component {
 
 			<Button
 			  title="Login with Facebook"
-			  onPress={this._handleFacebookLogin()}
+			  onPress={this._handleFacebookLogin}
 			/>
 
 
